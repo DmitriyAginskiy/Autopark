@@ -1,0 +1,6 @@
+2020-12-03 00:20:04 [main] INFO  autopark.model.dao.impl.CarDaoImpl = Element was added 
+2020-12-03 00:20:04 [main] INFO  autopark.model.dao.impl.CarDaoImpl = Returned full CarWarehouse collection
+2020-12-03 00:20:04 [main] INFO  autopark.model.dao.impl.CarDaoImpl = Id search performed
+2020-12-03 00:20:20 [main] INFO  autopark.model.dao.impl.CarDaoImpl = Element was added 
+2020-12-03 00:20:20 [main] INFO  autopark.model.dao.impl.CarDaoImpl = Returned full CarWarehouse collection
+2020-12-03 00:20:20 [main] INFO  autopark.model.dao.impl.CarDaoImpl = Id search performed

@@ -1,0 +1,2 @@
+2020-12-03 00:16:37 [main] INFO  autopark.model.dao.impl.CarDaoImpl = Element was added 
+2020-12-03 00:16:37 [main] INFO  autopark.model.dao.impl.CarDaoImpl = Returned full CarWarehouse collection

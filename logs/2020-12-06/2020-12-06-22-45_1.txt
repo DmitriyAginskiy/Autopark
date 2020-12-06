@@ -1,0 +1,11 @@
+2020-12-06 22:45:47 [main] INFO  autopark.model.dao.impl.CarDaoImpl = Element was added 
+2020-12-06 22:45:47 [main] INFO  autopark.model.dao.impl.CarDaoImpl = Returned full CarWarehouse collection
+2020-12-06 22:45:47 [main] INFO  autopark.model.dao.impl.CarDaoImpl = Id search performed
+2020-12-06 22:45:47 [main] INFO  autopark.model.dao.impl.CarDaoImpl = Element was deleted 
+2020-12-06 22:45:47 [main] INFO  autopark.model.dao.impl.CarDaoImpl = Returned full CarWarehouse collection
+2020-12-06 22:45:47 [main] INFO  autopark.model.dao.impl.CarDaoImpl = Element was added 
+2020-12-06 22:45:47 [main] INFO  autopark.model.dao.impl.CarDaoImpl = Returned full CarWarehouse collection
+2020-12-06 22:45:47 [main] INFO  autopark.model.dao.impl.CarDaoImpl = Search by brand performed
+2020-12-06 22:45:47 [main] INFO  autopark.model.dao.impl.CarDaoImpl = Id search performed
+2020-12-06 22:45:47 [main] INFO  autopark.model.dao.impl.CarDaoImpl = Search by model performed
+2020-12-06 22:45:47 [main] INFO  autopark.model.dao.impl.CarDaoImpl = Element was added 
